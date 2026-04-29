@@ -10,7 +10,7 @@ This project demonstrates advanced UI composition, reusable widget systems, and 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e465df6d-bc1b-47cf-882b-d7a4a4b6bb86" width="250"/>
-  <img src="https://github.com/user-attachments/assets/f3d0e233-7aff-4b4d-b878-fadbb139db1e" width="300"/>
+  <img src="https://github.com/user-attachments/assets/f3d0e233-7aff-4b4d-b878-fadbb139db1e" width="280"/>
   <img src="https://github.com/user-attachments/assets/6ac1c17c-e8af-4039-ad08-908dc6833716" width="250"/>
 </p>
 
